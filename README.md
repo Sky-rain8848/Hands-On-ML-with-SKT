@@ -3,3 +3,4 @@
 
 # Time Series Forecast with Scikit-learn
 [Time Series Forecast with Scikit-learn](https://nbviewer.jupyter.org/gist/Sky-rain8848/d073a3b01fe0b95bf5c96ca8f9324c46/Time%20Series%20Forecast%20with%20Scikit-learn.ipynb)
+[Time Series Task](https://nbviewer.jupyter.org/gist/Sky-rain8848/b4f75e305a272e7bf685660b95f99d6a)
